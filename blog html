@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<div class="header">
+  <h2>Futebol Blog</h2>
+</div>
+
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h2>Troféu do Brasileirão: Conheça a história da taça mais cobiçada do futebol brasileiro</h2>
+      <h5>Fala Fanático! Tudo bem, por aí? Hoje vamos conversar sobre a história e patrimônio do nosso futebol: A história do Troféu do Brasileirão. O recorte que faremos será a partir de 1971, quando a antiga CBD passou a denominar os torneios nacionais de Campeonato Brasileiro.
+
+Portanto, esse recorte histórico não levará em consideração as disputas dos torneios da Taça Brasil e Roberto Gomes Pedrosa, que posteriormente foram unificados ao Campeonato Brasileiro pela CBF.</h5>
+          </div>
+    <div class="card">
+      <h2>Coleção Adidas Alma resgata história e tradição do Futebol Brasileiro
+</h2>
+      <h5>A Adidas lançou recentemente uma coleção que vai exaltar toda a tradição e história do futebol brasileiro, a coleção Adidas Alma. 
+
+Até agora duas camisas já foram lançadas, mas fique de olho aqui na Fut, pois outros clubes também terão seus mantos lançados pela marca alemã. A Portuguesa, a tradicional Lusa, foi a primeira contemplada. Em maio também foi lançada a camisa do América do Rio.
+
+Em entrevista ao site MKTEsportivo, o gerente sênior da categoria Football na adidas Brasil, André Campos, disse: “A coleção ALMA é uma maneira fantástica de celebrar clubes que são parte da história do futebol brasileiro. Muitos fãs vão se lembrar da época de ouro dos times envolvidos no projeto e resgatar ótimas lembranças. Ao mesmo tempo, é uma oportunidade de aproximação com aqueles que eram muito jovens para testemunhar a magia contada de geração em geração”.</h5>
+      
+   <div class="card">
+      <h2>Sucesso do Cruzeiro como SAF será testado em 2023 no retorno à Série A
+</h2>
+      <h5>As últimas temporadas do Cruzeiro foram uma dor de cabeça para os torcedores, seja com a queda em 2019 ou então, com os fracassos na Série B, até ano passado. No entanto, desde a chegada de Ronaldo, a equipe mudou e começou a mostrar bom rendimento em campo. Conseguiu um forte domínio contra os adversários e vai chegar no final de setembro já com uma vaga carimbada para a Série A.
+
+Como consequência positiva, a equipe mineira será testada como SAF em 2023. O sonho de alguns dirigentes é a luta por títulos, enquanto os torcedores só querem deixar para trás as passagens pela Segunda Divisão.
+
+Vários clubes brasileiros estão se transformando em empresas, buscando assim, financiamento para montar elencos competitivos. É o caso, por exemplo, do Vasco da Gama com a 777 Partners. No entanto, se olharmos para os campeões mais recentes, veremos uma lista com Flamengo, Palmeiras e Atlético Mineiro, nenhum deles convertidos para SAF. Ou seja, é uma estrutura que ainda não se provou, e o Cruzeiro pode ser o primeiro a desafiar isso.</h5>   
+   </div>
+<div class="card">
+      <h2>Vasco também sonha com títulos
+</h2>
+      <h5>Não é só o Cruzeiro que deseja encerrar 2023 de uma maneira completamente diferente dos últimos anos. O Vasco também se transformou em SAF e tem tudo para voltar a ser protagonista do futebol brasileiro. No entanto, a campanha atual na Série B tem sido um problema e o time está muitos passos atrás dos mineiros. O lado bom é que não deve faltar dinheiro para arrumar o elenco vascaíno e começar 2023 de uma forma completamente diferente.
+
+Em 29 rodadas na Série B, o Vasco sofreu para ganhar dos adversários e acumulou um aproveitamento próximo dos 50%. Isso deixou uma longa distância para o líder, Cruzeiro e evidenciou vários riscos para o futuro. O alento é que o acordo com a 777 Partners foi fechado no segundo semestre, então o elenco atual não tem nenhuma ligação com essa nova diretoria vascaína. A cobrança deverá vir apenas em 2023.
+
+O futebol brasileiro está passando por um momento de mudanças e a ideia de SAF tomou conta dos clubes e também dos torcedores. Enquanto Palmeiras e Flamengo funcionam sem precisar disso, o Cruzeiro retorna à Série A disposto a mostrar que os clubes transformados em empresas vão ser protagonistas do futebol brasileiro e sul-americano. É apenas uma questão de tempo para isso acontecer.</h5>   
+   </div>
+</div>
+</body>
+</html>
